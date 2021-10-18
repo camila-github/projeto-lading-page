@@ -692,8 +692,7 @@ footer {
 	}
 }
 
-@media (max-width: 760px) {
-	
+@media (max-width: 760px) {	
 	header {
 		.sidebar {
 			.navbar-toggler-icon {
@@ -778,6 +777,7 @@ footer {
 				}
 			}
 		}
+
 		.maps {
 			max-width: 100%;
 		}
@@ -801,12 +801,9 @@ footer {
 		width: 35rem;
 	}
 
-	main {
-	
-		.banner{
-		
-			.banner__image{
-			
+	main {	
+		.banner{		
+			.banner__image{			
 				.banner__form {
 					right: -6rem;
 				}
@@ -829,15 +826,11 @@ footer {
 
 
 @media (max-width: 300px) {	
-
-
-	main {
-	
+	main {	
 		.service {		
 			.schedule {
 				button{				
-					right: 1rem;
-					
+					right: 1rem;					
 					&:last-child {
 						right: -9rem;
 					}

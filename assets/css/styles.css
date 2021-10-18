@@ -650,14 +650,26 @@ footer .endereco {
   header .sidebar .navbar-toggler-icon p {
     display: none;
   }
+  main .about {
+    max-width: 100%;
+  }
+  main .about .row {
+    background-color: #fff;
+  }
   main .about .row .col-md-6 {
     width: 90%;
+    padding-left: 0;
+    margin-right: 1rem;
+    margin-left: 1rem;
   }
   main .about .row .col-md-6 .about__buttons {
     margin-left: 5rem;
   }
   main .about .row .col-md-6 img {
-    margin-left: -2rem;
+    margin-left: -1.2rem;
+  }
+  main .banner .banner__image {
+    max-width: 100%;
   }
   main .banner .banner__image .col-md-8 {
     margin-top: 50px;
@@ -669,10 +681,25 @@ footer .endereco {
     text-align: center;
   }
   main .banner .banner__image .col-md-4 .banner__form {
-    right: -35%;
+    right: -2rem;
+  }
+  main .service {
+    max-width: 100%;
   }
   main .service .product .carousel .carousel-item .card img {
     height: 300px;
+  }
+  main .service .schedule button {
+    right: 12rem;
+  }
+  main .service .schedule button:last-child {
+    right: 2rem;
+  }
+  main .maps {
+    max-width: 100%;
+  }
+  footer {
+    max-width: 100%;
   }
   footer .endereco {
     flex-direction: column;

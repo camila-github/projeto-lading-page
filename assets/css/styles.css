@@ -708,4 +708,28 @@ footer .endereco {
     margin-bottom: -3rem;
   }
 }
+
+@media (max-width: 500px) {
+  body {
+    width: 35rem;
+  }
+  main .banner .banner__image .banner__form {
+    right: -6rem;
+  }
+  main .service .schedule button {
+    right: 6.5rem;
+  }
+  main .service .schedule button:last-child {
+    right: -2rem;
+  }
+}
+
+@media (max-width: 300px) {
+  main .service .schedule button {
+    right: 1rem;
+  }
+  main .service .schedule button:last-child {
+    right: -9rem;
+  }
+}
 /*# sourceMappingURL=styles.css.map */

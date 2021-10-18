@@ -693,6 +693,7 @@ footer {
 }
 
 @media (max-width: 760px) {
+	
 	header {
 		.sidebar {
 			.navbar-toggler-icon {
@@ -794,8 +795,57 @@ footer {
 	}
 }	
 
+@media (max-width: 500px) {	
+
+	body {
+		width: 35rem;
+	}
+
+	main {
+	
+		.banner{
+		
+			.banner__image{
+			
+				.banner__form {
+					right: -6rem;
+				}
+			}
+		}
+
+		.service {		
+			.schedule {
+				button{				
+					right: 6.5rem;
+					
+					&:last-child {
+						right: -2rem;
+					}
+				}
+			}
+		}
+	}			 
+}
 
 
+@media (max-width: 300px) {	
+
+
+	main {
+	
+		.service {		
+			.schedule {
+				button{				
+					right: 1rem;
+					
+					&:last-child {
+						right: -9rem;
+					}
+				}
+			}
+		}
+	}			 
+}
 
 
 

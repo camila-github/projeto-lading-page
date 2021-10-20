@@ -111,10 +111,6 @@ main .banner .banner__image .col-md-8 .banner__text {
   margin: 50px 0;
 }
 
-main .banner .banner__image .col-md-8 .banner__text .btn_1 {
-  display: none;
-}
-
 main .banner .banner__image .col-md-8 .banner__text p {
   padding: 0px;
   margin: 0;

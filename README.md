@@ -8,9 +8,10 @@
   - Bootstrap versão 5 - utilizado link CDN
   - Aplicado responsividade.
   - Criado formulario com validação (utilizado recurso de validaçao do html)
-  - Utilizado icones em SVG
+  - Utilizado 'Inkscape' para converter alguns icones em SVG
   - Gulp - utilizado para minificar os arquivos que foram salvo na pasta 'dist'.
 
 ## Site Publicado no link abaixo  
 
 - [https://camila-github.github.io/projeto-lading-page/](https://camila-github.github.io/projeto-lading-page/)
+

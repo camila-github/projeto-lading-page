@@ -4,13 +4,13 @@
 
   - IDE VSCode
   - HTML - aplicado conceitos SEO
-  - Sass/Scss - Para compilar os arquivos de Scss para Css, utilizado o processsar 'Live Sass Compiler' e para rodar a aplicação no navegador e monitorar as alterações realizadas utilizado o 'Lite Server' 
+  - SASS/SCSS - Para compilar os arquivos de Scss para Css, utilizado o processsar 'Live Sass Compiler' e para rodar a aplicação no navegador e monitorar as alterações realizadas utilizado o 'Lite Server' 
   - Bootstrap versão 5 - utilizado link CDN
   - Aplicado responsividade.
   - Criado formulario com validação (utilizado recurso de validaçao do html)
   - Utilizado 'Inkscape' para converter alguns icones em SVG
-  - Gulp - utilizado para minificar os arquivos que foram salvo na pasta 'dist'.
-  - -Referencia para o projeto: Brivia
+  - GULP - utilizado para minificar os arquivos que foram salvo na pasta 'dist'.
+  - Referencia para o projeto: Brivia
 
 ## Site Publicado no link abaixo  
 

@@ -10,6 +10,7 @@
   - Criado formulario com validação (utilizado recurso de validaçao do html)
   - Utilizado 'Inkscape' para converter alguns icones em SVG
   - Gulp - utilizado para minificar os arquivos que foram salvo na pasta 'dist'.
+  - -Referencia para o projeto: Brivia
 
 ## Site Publicado no link abaixo  
 
@@ -18,7 +19,7 @@
 ## Vídeo de demonstração do aplicativo
 
 <p align="center">
-   <img src=""/>
+   <img src="https://github.com/camila-github/projeto-lading-page/blob/main/docs/video.gif"/>
 </p>
 
 
